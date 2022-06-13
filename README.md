@@ -35,3 +35,8 @@ This application is covered under the MIT license.
 
   ## Questions:
   Feel free to email me at: sylvester.brandon25@gmail.com
+
+Walkthrough video => https://drive.google.com/file/d/1yKqTAQnFw-QH3fSbQlLHhR6D1rHpQU2u/view
+
+![image](https://user-images.githubusercontent.com/100239887/173267067-14d74fe7-0716-49cd-ab01-b14596a4605e.png)
+
