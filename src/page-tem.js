@@ -1,6 +1,6 @@
-// create the team
+// Creates the Team
 const generateTeam = (team) => {
-    // create the manager html
+    // Creates the Manager's HTML
     const generateManager = (manager) => {
       return `
           <div class="card employee-card">
@@ -19,7 +19,7 @@ const generateTeam = (team) => {
           `;
     };
   
-    // create the html for engineers
+    // Creates the HTML for Interns
     const generateEngineer = (engineer) => {
       return `
           <div class="card employee-card">
@@ -38,7 +38,7 @@ const generateTeam = (team) => {
           `;
     };
   
-    // create the html for interns
+    // Creates the HTML for Interns
     const generateIntern = (intern) => {
       return `
           <div class="card employee-card">
@@ -80,7 +80,7 @@ const generateTeam = (team) => {
     return html.join("");
   };
   
-  // export function to generate entire page
+  // Exports the Function to Generate Entire Page
   module.exports = (team) => {
     return `
       <!DOCTYPE html>
